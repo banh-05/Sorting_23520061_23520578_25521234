@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+#include <algorithm>
 using namespace std;
 
 void InsertionSort(vector<int>& a) {
